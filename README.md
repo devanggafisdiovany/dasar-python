@@ -3,4 +3,4 @@
 ## Tech Stack :
 ### 1. Python
 
-#Author : Devangga Fisdiovany
+# Author : Devangga Fisdiovany
